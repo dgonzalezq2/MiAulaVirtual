@@ -398,10 +398,14 @@ section {
 }
 
 .home-slider .item-second {
-    background-image: url(../images/slider-image2.jpg);
+    background-image: url(../images/texto.png);
 }
 
 .home-slider .item-third {
+    background-image: url(../images/slider-image2.jpg);
+}
+
+.home-slider .item-fourth {
     background-image: url(../images/slider-image3.jpg);
 }
 
